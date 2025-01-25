@@ -65,7 +65,7 @@ plt.show()
 
 
     
-![png]([output_0_1.png](https://github.com/harishhgowda/Iris_Flowers_Classification/blob/main/Iris_Flowers_Classification/output_file.png))
+![png](https://github.com/harishhgowda/Iris_Flowers_Classification/blob/main/Iris_Flowers_Classification/output_file.png)
     
 
 
