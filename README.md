@@ -9,6 +9,7 @@
     
     Accuracy of the K-Nearest Neighbors classifier: 100.00%
 
-![png](https://github.com/harishhgowda/Iris_Flowers_Classification/blob/main/Iris_Flowers_Classification/output_file.png)
+
 ```
 
+![png](https://github.com/harishhgowda/Iris_Flowers_Classification/blob/main/Iris_Flowers_Classification/output_file.png)
